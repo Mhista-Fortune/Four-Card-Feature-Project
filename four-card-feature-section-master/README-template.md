@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Mhista-Fortune/Four-Card-Feature-Project/tree/main/four-card-feature-section-master)
+- Live Site URL: [Add live site URL here](https://four-card-feature-project-kappa.vercel.app/)
 
 
 ### Built with
@@ -65,4 +65,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- [Frontend Mentor](https://www.frontendmentor.io) for the challenge and design inspiration.
